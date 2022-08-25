@@ -38,10 +38,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/markuspetzke/markuspetzke/blob/output/snake.svg" alt="Snake animation" />
-
-###
